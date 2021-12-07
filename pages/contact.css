@@ -1,0 +1,28 @@
+.ox{
+    margin: 0% ;
+}
+.from{
+    background-color: grey;
+    margin: 20px auto;
+    padding: 20px;
+}
+.from label:hover{
+    color:white;
+    background-color: salmon;
+    font-size: 20px;
+}
+.from input:focus{
+    background-color: tomato;
+    color: teal;
+    font-size: 20px;
+    
+}
+#submit{
+    color:black;
+    font-size: 30px;
+    background-color:hotpink;
+    margin: 10px;
+    padding: 10px;
+    border-color: hotpink;
+    
+}

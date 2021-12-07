@@ -1,0 +1,206 @@
+.main{
+    background-image: url(images/image-4.jpg);
+    width: 100%;
+    height:500px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+img{
+    max-width: 100%;
+}
+
+
+   
+
+nav ul{
+    text-align: right;
+  
+   
+}
+nav ul li{
+    display: inline-block;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color:green;
+    margin: 30px;
+    padding: 20px;
+    font-size: 20px;
+}
+nav ul li a:hover{
+    color: white;
+    font-size: 20px;
+    background-color: tomato;
+}
+h1{
+    text-align: left;
+    color: red;
+    margin: 20px;
+}
+.fir h1{
+    text-align: center;
+    color: black;
+}
+.fir p{
+    text-align: center;
+    color: black;
+}
+.ab{
+    float: left;
+}
+h2{
+    text-align: center;
+    color:black;
+}
+.quality{
+    background-color:burlywood;
+    width: 30%;
+   
+    padding: 15px;
+    border: 2px solid white;
+    margin-bottom: 50px;
+}
+.growth{
+    background-color:burlywood;
+    width: 30%;
+   
+    padding: 15px;
+    border: 2px solid white;
+    margin-bottom: 50px;
+}
+    .competitive{
+        background-color:burlywood;
+        width: 30%;
+       
+        padding: 15px;
+        border: 2px solid white;
+        margin-bottom: 50px;
+    }
+    .service h1{
+        text-align: center;
+        color:hotpink;
+        margin-top: 20px;
+    }
+    .service p{
+        text-align: center;
+    }
+        
+    
+   
+    .ab{
+        width:30%;
+        
+        padding: 15px;
+        border: 1px solid white;
+        margin-top: 10px;
+    }
+    .ab img{
+        width: 50%;
+        margin: auto;
+        display: block;
+        
+
+    }
+    
+    .ac{
+        width:30%;
+      
+        padding:15px;
+        border: 1px solid white;
+        margin-top: 10px;
+    }
+    .ac img{
+        width: 50%;
+        margin: auto;
+        display: block;
+
+    }
+    
+    .ad{
+        width:30%;
+     
+        padding:15px;
+        border: 1px solid white;
+        margin-top: 10px;
+    }
+    .ad img{
+        width: 50%;
+        margin: auto;
+        display: block;
+
+    }
+    
+    
+    
+    .web{
+        width:25%;
+        border: 1px solid white;
+        padding: 15px;
+        margin: 10px;
+      
+       
+    }
+    .web img{
+        width: 50%;
+        margin: auto;
+        display: block;
+
+    }
+    .soc{
+        width:25%;
+        border: 1px solid white;
+        padding: 15px;
+        margin: 10px;
+       
+      
+    }
+    .soc img{
+        width: 50%;
+        margin: auto;
+        display: block;
+
+    }
+    .oxes{
+        background-color:khaki;
+        font-size: 30px;
+        font-family: 'Explora' , cursive;
+    }
+    .ox{
+        margin: 0%;
+    }
+    .eco{
+        width:25%;
+        border: 1px solid white;
+        padding: 15px;
+        margin: 10px;
+       
+        
+    }
+    .eco img{
+        width: 50%;
+        margin: auto;
+        display: block;
+
+    }
+    .secend{
+        float: left;
+    }
+    .first{
+        float: left;
+    }
+    
+    .sec{
+        width:100%;
+        padding: 15px;
+        border: 2px solid white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: inline-block;
+        background-color: wheat;
+     
+    }
+   

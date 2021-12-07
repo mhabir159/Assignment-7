@@ -1,0 +1,32 @@
+.ox{
+  margin: 0%;
+}
+h2{
+  text-align: center;
+  color: black;
+}
+p{
+  text-align: center;
+  color: black;
+}
+.first{
+  background-color: cadetblue;
+}
+.ab{
+  float: left;
+}
+.secend{
+  width: 30%;
+  padding: 15px;
+
+}
+.secend img{
+  width: 100%;
+ text-align: center;
+ margin: auto;
+}
+.thirs{
+  width: 30%;
+  padding: 15px;
+  border: 2px solid pink;
+}
